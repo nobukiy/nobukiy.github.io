@@ -17,9 +17,9 @@ In the first year of the minor students learn IT concepts (such as networks, dat
 In the second year of the minor, students study the following topics: database design, webDev frameworks, computer networks & cyber-security.
 
 ### CIT Courses & Content
-CIS 110: IT concepts, HTML & CSS
-CIS 111: WebDev w/JavaScipt (ES6)
-CIT 281: Unix Shell; Git & Github; jQuery; AJAX (fetch & promises); Node & Express; ES6 Classes & Super; React; Github Pages
+* CIS 110: IT concepts, HTML & CSS
+* CIS 111: WebDev w/JavaScipt (ES6)
+* CIT 281: Unix Shell; Git & Github; jQuery; AJAX (fetch & promises); Node & Express; ES6 Classes & Super; React; Github Pages
 
 ### My CIT Projects
 
