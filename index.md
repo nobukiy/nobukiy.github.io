@@ -23,9 +23,21 @@ CIT 281: Unix Shell; Git & Github; jQuery; AJAX (fetch & promises); Node & Expre
 
 ### My CIT Projects
 
-[CIS 110 Projects (uoregon.edu)](http://pages.uoregon.edu/nobukiy/110/)
-[CIS 111 Projects (uoregon.edu)](http://pages.uoregon.edu/nobukiy/111/)
-CIT 281 Projects
+**** [CIS 110 Projects (uoregon.edu)](http://pages.uoregon.edu/nobukiy/110/)
+* [P1 Project Page (Github)](http://pages.uoregon.edu/nobukiy/110/p1/)
+* [P2 Project Page (Github)](http://pages.uoregon.edu/nobukiy/110/p2/)
+* [P3 Project Page (Github)](http://pages.uoregon.edu/nobukiy/110/p3/)
+* [P4 Project Page (Github)](http://pages.uoregon.edu/nobukiy/110/p4/)
+* [P5 Project Page (Github)](http://pages.uoregon.edu/nobukiy/110/p5/)
+
+**** [CIS 111 Projects (uoregon.edu)](http://pages.uoregon.edu/nobukiy/111/)
+* [P1 Project Page (Github)](http://pages.uoregon.edu/nobukiy/111/p1/)
+* [P2 Project Page (Github)](http://pages.uoregon.edu/nobukiy/111/p2/)
+* [P3 Project Page (Github)](http://pages.uoregon.edu/nobukiy/111/p3/)
+* [P4 Project Page (Github)](http://pages.uoregon.edu/nobukiy/111/p4/)
+* [P5 Project Page (Github)](http://pages.uoregon.edu/nobukiy/111/p5/)
+
+**** CIT 281 Projects
 * P1 Project Page (Github)
 * [P2 Project Page (Github)](https://uo-cit.github.io/project-2-nobukiy/)
 * P3 Project Page (Github)
